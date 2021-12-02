@@ -1,0 +1,15 @@
+version: '3'
+networks:
+  nominatim-client:
+services:
+  nominatim:
+    image: mediagis/nominatim:3.7
+    container_name: nominatim
+    restart: always
+    environment:
+      PBF_URL: https://download.geofabrik.de/europe/portugal-latest.osm.pbf
+      REPLICATION_URL: https://download.geofabrik.de/europe/portugal-updates
+    ports:
+      - '8080:8080'
+    networks:
+      - nominatim-client

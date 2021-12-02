@@ -1,0 +1,192 @@
+[
+  {
+    "place_id": 1086637,
+    "licence": "Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright",
+    "osm_type": "way",
+    "osm_id": 681838642,
+    "boundingbox": [
+      "38.6939653",
+      "38.6950274",
+      "-9.3257181",
+      "-9.3189774"
+    ],
+    "lat": "38.6945252",
+    "lon": "-9.3221278",
+    "display_name": "Avenida da República, Nova Oeiras, Oeiras, Oeiras e São Julião da Barra, Paço de Arcos e Caxias, Oeiras, Lisbon, 2780-142, Portugal",
+    "place_rank": 26,
+    "category": "highway",
+    "type": "primary",
+    "importance": 0.4
+  },
+  {
+    "place_id": 1103660,
+    "licence": "Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright",
+    "osm_type": "way",
+    "osm_id": 683827991,
+    "boundingbox": [
+      "38.7429985",
+      "38.7431475",
+      "-9.1468248",
+      "-9.1467899"
+    ],
+    "lat": "38.7429985",
+    "lon": "-9.1467899",
+    "display_name": "Avenida da República, Avenidas Novas, Lisbon, 1000-078, Portugal",
+    "place_rank": 26,
+    "category": "highway",
+    "type": "primary",
+    "importance": 0.4
+  },
+  {
+    "place_id": 838090,
+    "licence": "Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright",
+    "osm_type": "way",
+    "osm_id": 317348731,
+    "boundingbox": [
+      "38.6945143",
+      "38.6955565",
+      "-9.4378111",
+      "-9.430993"
+    ],
+    "lat": "38.6951176",
+    "lon": "-9.4344636",
+    "display_name": "Avenida da República, Gandarinha, Cascais, Cascais e Estoril, Cascais, Lisbon, 2754-513, Portugal",
+    "place_rank": 26,
+    "category": "highway",
+    "type": "primary",
+    "importance": 0.4
+  },
+  {
+    "place_id": 922717,
+    "licence": "Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright",
+    "osm_type": "way",
+    "osm_id": 391115717,
+    "boundingbox": [
+      "38.7413628",
+      "38.7418817",
+      "-9.1469039",
+      "-9.1467772"
+    ],
+    "lat": "38.7416893",
+    "lon": "-9.1468576",
+    "display_name": "Avenida da República, São Sebastião da Pedreira, Avenidas Novas, Lisbon, 1050-196, Portugal",
+    "place_rank": 26,
+    "category": "highway",
+    "type": "primary",
+    "importance": 0.4
+  },
+  {
+    "place_id": 922722,
+    "licence": "Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright",
+    "osm_type": "way",
+    "osm_id": 391115732,
+    "boundingbox": [
+      "38.7393578",
+      "38.7398936",
+      "-9.1461825",
+      "-9.1461244"
+    ],
+    "lat": "38.7396418",
+    "lon": "-9.1461714",
+    "display_name": "Avenida da República, São Sebastião da Pedreira, Avenidas Novas, Lisbon, 1050-195, Portugal",
+    "place_rank": 26,
+    "category": "highway",
+    "type": "primary",
+    "importance": 0.4
+  },
+  {
+    "place_id": 922232,
+    "licence": "Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright",
+    "osm_type": "way",
+    "osm_id": 391115728,
+    "boundingbox": [
+      "38.7362029",
+      "38.7372223",
+      "-9.1457572",
+      "-9.1455129"
+    ],
+    "lat": "38.7370683",
+    "lon": "-9.1457202",
+    "display_name": "Avenida da República, São Sebastião da Pedreira, Avenidas Novas, Lisbon, 1050-186, Portugal",
+    "place_rank": 26,
+    "category": "highway",
+    "type": "primary",
+    "importance": 0.4
+  },
+  {
+    "place_id": 1086746,
+    "licence": "Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright",
+    "osm_type": "way",
+    "osm_id": 682179937,
+    "boundingbox": [
+      "38.7450259",
+      "38.7455156",
+      "-9.1474571",
+      "-9.1473408"
+    ],
+    "lat": "38.7453091",
+    "lon": "-9.147422",
+    "display_name": "Avenida da República, Alvalade, Lisbon, 1700-421, Portugal",
+    "place_rank": 26,
+    "category": "highway",
+    "type": "primary",
+    "importance": 0.4
+  },
+  {
+    "place_id": 653721,
+    "licence": "Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright",
+    "osm_type": "way",
+    "osm_id": 180763282,
+    "boundingbox": [
+      "38.7426426",
+      "38.7463572",
+      "-9.2129188",
+      "-9.2109342"
+    ],
+    "lat": "38.7448882",
+    "lon": "-9.211084",
+    "display_name": "Avenida da República, Damaia de Baixo, Damaia, Águas Livres, Amadora, Lisbon, 2610-301, Portugal",
+    "place_rank": 26,
+    "category": "highway",
+    "type": "tertiary",
+    "importance": 0.4
+  },
+  {
+    "place_id": 1286814,
+    "licence": "Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright",
+    "osm_type": "way",
+    "osm_id": 946887456,
+    "boundingbox": [
+      "38.7396464",
+      "38.7404639",
+      "-9.2142084",
+      "-9.2141539"
+    ],
+    "lat": "38.7399311",
+    "lon": "-9.2142084",
+    "display_name": "Avenida da República, Alfragide, Amadora, Lisbon, 2610-301, Portugal",
+    "place_rank": 26,
+    "category": "highway",
+    "type": "tertiary",
+    "importance": 0.4
+  },
+  {
+    "place_id": 1085645,
+    "licence": "Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright",
+    "osm_type": "way",
+    "osm_id": 624937440,
+    "boundingbox": [
+      "38.7836881",
+      "38.7838134",
+      "-9.1140715",
+      "-9.1115441"
+    ],
+    "lat": "38.7837513",
+    "lon": "-9.1127507",
+    "display_name": "Avenida da República, Moscavide e Portela, Loures, Lisbon, 2685-204, Portugal",
+    "place_rank": 26,
+    "category": "highway",
+    "type": "residential",
+    "importance": 0.4
+  }
+]

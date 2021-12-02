@@ -1,0 +1,26 @@
+{
+  "place_id": 1086637,
+  "licence": "Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright",
+  "osm_type": "way",
+  "osm_id": 681838642,
+  "lat": "38.6945252",
+  "lon": "-9.3221278",
+  "display_name": "Avenida da República, Nova Oeiras, Oeiras, Oeiras e São Julião da Barra, Paço de Arcos e Caxias, Oeiras, Lisbon, 2780-142, Portugal",
+  "address": {
+    "road": "Avenida da República",
+    "neighbourhood": "Nova Oeiras",
+    "town": "Oeiras",
+    "city": "Oeiras e São Julião da Barra, Paço de Arcos e Caxias",
+    "municipality": "Oeiras",
+    "county": "Lisbon",
+    "postcode": "2780-142",
+    "country": "Portugal",
+    "country_code": "pt"
+  },
+  "boundingbox": [
+    "38.6939653",
+    "38.6950274",
+    "-9.3257181",
+    "-9.3189774"
+  ]
+}

@@ -1,0 +1,6 @@
+{
+  "error": {
+    "code": 400,
+    "message": "Need coordinates or OSM object to lookup."
+  }
+}
