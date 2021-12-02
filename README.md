@@ -17,8 +17,8 @@ where the Nominatim API is serving:
 import "github.com/diegohordi/nominatim"
 ...
 httpClient := &http.Client{Timeout: time.Second * 5}
-apiURL: = "http://localhost:8080"
-client := nominatim.NewClient(baseURL, httpClient)
+apiURL := "http://localhost:8080"
+client := nominatim.NewClient(apiURL, httpClient)
 ```
 
 #### Timeouts
@@ -61,7 +61,7 @@ use the Search API, you can do as follows:
 ```
 query := nominatim.NewSearchQuery()
 query.FreeFormQuery = "avenida da república, lisboa"
-results, err := client.Search(ctx, query)
+results, err := client.Search(ctx, *query)
 ```
 
 ### /reverse
@@ -86,7 +86,7 @@ receive an error. So, you can do as follows:
 ```
 query := nominatim.NewReverseQuery("38.6945252", "-9.3221278")
 query.AddressDetails = false
-result, err := client.Reverse(ctx, query)
+result, err := client.Reverse(ctx, *query)
 ```
 
 ### /status
