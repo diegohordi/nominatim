@@ -6,7 +6,7 @@ Go client for [Nominatim API](https://nominatim.org/).
 
 ### Install
 
-`go get github.com/diegohordi/nominatim-client`
+`go get github.com/diegohordi/nominatim`
 
 ### Creating a client
 
